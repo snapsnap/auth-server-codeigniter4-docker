@@ -1,0 +1,32 @@
+
+* {
+    font-family: "Plus Jakarta Sans";
+}
+.bg-blue {
+    background-color: #4285F4;
+}
+.frm {
+    padding: 100px;
+}
+.judul {
+    width: 274px;
+    height: 40px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+
+    color: #000000;
+
+}
+.logo {
+    /* width: 117px; */
+    height: 48px;
+}
+.anime {
+    width: 400px;
+}
+a.hiden-link {
+    text-decoration: none;
+    color: black;
+}

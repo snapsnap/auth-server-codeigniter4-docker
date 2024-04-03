@@ -1,0 +1,158 @@
+
+* {
+    font-family: "Plus Jakarta Sans";
+}
+.bg-blue {
+    background-color: #0080FF;
+}
+.frm {
+    padding: 100px;
+}
+.logo {
+    height: 43.9px;
+    margin-left: 10px;
+}
+.judul {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+
+    color: #000000;
+
+}
+.boks {
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    background: #FFFFFF;
+    border: 1px solid #BEB9CD;
+    border-radius: 10px;
+}
+.btn-gelap {
+    background: #413C5E;
+    color: #fff;
+}
+.btn-download {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 10px;
+    gap: 10px;
+
+    width: 117px;
+    height: 26px;
+
+    background: rgba(28, 58, 169, 0.1);
+    border-radius: 4px;
+}
+.teks-table {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9pt;
+    line-height: 18px;
+}
+.teks-key {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9pt;
+    line-height: 18px;
+    color: #dc3545;
+}
+.teks-btn {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+}
+.fa-btn {
+    color: #ddd;
+}
+.teks-putih {
+    color: #fff;
+}
+.identity {
+    text-align: left;
+}
+.blok {
+    display: block;
+    font-size: 11pt;
+}
+.sub-blok {
+    display: block;
+    font-size: 9pt;
+}
+.foto-profile {
+    height: 40px;
+}
+.blok-profile {
+    vertical-align: middle !important;
+}
+.span-result {
+    display: block;
+    margin-left: 20px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11pt;
+    line-height: 18px;
+    color: red;
+}
+.table thead tr th {
+    vertical-align: middle;
+}
+.btn-setuju {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 4px;
+    margin: 3px;
+    color: #fff;
+
+    width: 100px;
+    height: 28px;
+
+    background: #00CF15;
+    border-radius: 4px;
+    border-style: none;
+}
+.btn-tolak {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 4px;
+    margin: 3px;
+    color: #fff;
+
+    width: 100px;
+    height: 28px;
+
+    background: #FF3737;
+    border-radius: 4px;
+    border-style: none;
+}
+.btn-setuju:hover {
+    background: #00C010;
+}
+.btn-tolak:hover {
+    background: #F03037;
+}
+.btn-del {
+    background: #ECEBF1;
+    color: red;
+}
+.table-admin thead tr th{
+    background: #F5F4F8;
+}
+.table-partner thead tr th{
+    background: #F5F4F8;
+}
